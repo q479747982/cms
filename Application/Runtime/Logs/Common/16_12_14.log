@@ -1,0 +1,12 @@
+[ 2016-12-14T20:05:27+08:00 ] ::1 /cms/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 无法加载模块:Www.baidu
+
+[ 2016-12-14T20:05:47+08:00 ] ::1 /cms/www.baidu.com
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Www.baidu
+
